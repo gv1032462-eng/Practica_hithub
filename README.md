@@ -4,9 +4,9 @@
 Repositorio creado para practicar el uso basico de GitHub y GitHub Desktop.
 
 ## Autor 
-Rivas Valdivia Gabriela Esmeralda
-Cortez rodriguez Ana Yuresmi
-Maradiaga Valera Delmaris
+-Rivas Valdivia Gabriela Esmeralda
+-Cortez rodriguez Ana Yuresmi
+-Maradiaga Valera Delmaris
 
 ## Carrera
 Ingenieria de sistemas
@@ -21,3 +21,5 @@ Aprender a utiizar repositorios, commits, ramas y Pull Request en GitHub.
 -README.md
 -Carpeta seemana-01
 -Archivo index.html
+
+Practica realizada usandonGitHub paso a paso
