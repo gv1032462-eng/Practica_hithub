@@ -1,7 +1,7 @@
 # Practica-hithub
 
 ## Descripcion 
-Repositorio creado para practicar el uso basico de GitHub y GitHub Desktop.
+Repositorio creado para practicar el uso basico de GitHub y GitHub Desktop
 
 ## Autor 
 -Rivas Valdivia Gabriela Esmeralda
